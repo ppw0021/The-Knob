@@ -14,6 +14,8 @@ Standard rotary encoder.
 ## 3D printing the enclosure
 It is best to use PLA to print the housing and knob at 0.3mm layer height. I have included the Fusion360 files I used if the sizing of your rotary encoder is different.
 
+## The Code
+Ensure that you download the required Library from here https://github.com/NicoHood/HID.
 ```
 //Arduino Leonardo
 
