@@ -4,9 +4,9 @@
 #include "HID-Project.h"
 
 //Pin definitions for rotary Encoder
-#define outputA 7
-#define outputB 6
-#define press 10
+#define outputA 11
+#define outputB 10
+#define press 9
 
 //State variables
 int aState;
