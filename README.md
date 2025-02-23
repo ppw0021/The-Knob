@@ -16,7 +16,7 @@ It is best to use PLA to print the housing and knob at 0.3mm layer height. I hav
 
 ## The Code
 Ensure that you download the required Library from here https://github.com/NicoHood/HID.
-```
+```cpp
 //Arduino Leonardo
 
 //https://github.com/NicoHood/HID
